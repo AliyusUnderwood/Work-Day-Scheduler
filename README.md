@@ -44,7 +44,7 @@ Made a scheduling app for a users work day. I wanted to create something that'll
 </br>
 
 ## App
-[<h1>🗒️<h1>](https://aliyusunderwood.github.io/Work-Day-Scheduler/)
+[<h1>Deployed App<h1>🗒](https://aliyusunderwood.github.io/Work-Day-Scheduler/)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -52,4 +52,4 @@ Made a scheduling app for a users work day. I wanted to create something that'll
 This repository is licensed under the MIT license.
 
 ## Github
-[<img src="./video/25231.png" alt="Github Logo" width="75" height="75">](https://github.com/AliyusUnderwood/WeatherForecast)
+[<img src="./video/25231.png" alt="Github Logo" width="75" height="75">](https://github.com/AliyusUnderwood/Work-Day-Scheduler)
