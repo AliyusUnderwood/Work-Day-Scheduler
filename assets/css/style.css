@@ -1,0 +1,88 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    background-color: #1c1c1c;
+    color: #ffffff;
+  }
+  
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #ffffff;
+    border-left: 1px solid #ffffff;
+    padding: 10px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 0;
+    border-bottom: 4px solid #06aed5;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid #ffffff;
+  }
+  
+  .hour {
+    background-color: #000000;
+    color: #ffffff;
+    border-top: 1px dashed #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .past {
+    background-color: #4d4d4d;
+    color: #ffffff;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: #ffffff;
+  }
+  
+  .future {
+    background-color: #464646;
+    color: #ffffff;
+  }
+  
+  .saveBtn {
+    border-left: 1px solid #ffffff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #06aed5;
+    color: #ffffff;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .saveBtn:hover {
+    background-color: #0483a5;
+  }
+  
+  .saveBtn i {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .saveBtn:hover i {
+    transform: scale(1.2);
+  }
